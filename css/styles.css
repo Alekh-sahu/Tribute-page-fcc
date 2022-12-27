@@ -1,0 +1,14 @@
+
+.image
+{
+display:block;
+max-width:80%;
+height:auto;
+margin-left: auto;
+margin-right: auto;
+}
+body{
+  text-align:center;
+  background-color:#FAF8F1;
+
+}
